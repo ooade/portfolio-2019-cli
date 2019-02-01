@@ -1,0 +1,18 @@
+{
+	"name": "ademola",
+	"version": "1.0.0",
+	"description": "Ademola's Profile",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"It's me again!\" && exit 1"
+	},
+	"bin": {
+		"ademola": "./index.js",
+		"ooade": "./index.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"minimist": "^1.2.0"
+	}
+}
